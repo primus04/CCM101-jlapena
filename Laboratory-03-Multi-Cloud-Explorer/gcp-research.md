@@ -47,6 +47,8 @@ BigQuery is a fully managed, serverless data warehouse and analytics platform de
 - Running containerized and cloud-native applications.
 - Disaster recovery and global application deployment.
 - Building data-driven and AI-powered business solutions.
+  
+![Gcp Management Console](screenshots/gcp-homepage.png)
 
 ## References
 
