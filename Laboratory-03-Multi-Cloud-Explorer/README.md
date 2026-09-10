@@ -29,11 +29,7 @@ This command displays information about the Linux operating system installed on 
 
 ### Result
 
-Paste the terminal output here.
-
-### Screenshot
-
-Paste your screenshot here.
+![Operating System Information](screenshots/killercoda-terminal1.png)
 
 ---
 
@@ -51,11 +47,7 @@ This command displays information about the server's CPU. It can show the CPU ar
 
 ### Result
 
-Paste the terminal output here.
-
-### Screenshot
-
-Paste your screenshot here.
+![CPU Information](screenshots/killercoda-terminal2.png)
 
 ---
 
@@ -75,11 +67,7 @@ The `-h` means **human-readable**, so the memory values are displayed using unit
 
 ### Result
 
-Paste the terminal output here.
-
-### Screenshot
-
-Paste your screenshot here.
+![MEMORY Information](screenshots/killercoda-terminal3.png)
 
 ---
 
@@ -99,11 +87,7 @@ The `-h` means **human-readable**, making the storage values easier to understan
 
 ### Result
 
-Paste the terminal output here.
-
-### Screenshot
-
-Paste your screenshot here.
+![Disk Space Information](screenshots/killercoda-terminal4.png)
 
 ---
 
