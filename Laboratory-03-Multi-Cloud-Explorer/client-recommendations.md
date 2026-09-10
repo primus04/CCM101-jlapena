@@ -57,3 +57,20 @@ I recommend **Amazon Web Services (AWS)** because the company serves customers a
 * **Elastic Load Balancing (ELB)** – for distributing customer traffic across multiple servers.
 * **Amazon CloudFront** – for delivering website content quickly to customers worldwide.
 * **Amazon RDS** – for managing highly available relational databases.
+
+# ☁️ Multi-Cloud Decision Matrix
+
+The following decision matrix recommends the most suitable cloud platform based on different business requirements.
+
+| Business Requirement        | Recommended Platform            | Justification                                                                                                                                                 |
+| --------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | **AWS**                         | AWS offers many services and flexible options that can help startups begin with smaller resources and scale as their business grows.                          |
+| **Enterprise Organization** | **AWS**                         | AWS provides a wide range of cloud services, strong security features, and global infrastructure that can support large enterprise workloads.                 |
+| **Microsoft Environment**   | **Microsoft Azure**             | Azure is the best choice for organizations that already use Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory.               |
+| **AI / Machine Learning**   | **Google Cloud Platform (GCP)** | GCP has strong Artificial Intelligence and Machine Learning services, as well as powerful computing and data analytics tools.                                 |
+| **Kubernetes Deployment**   | **Google Cloud Platform (GCP)** | GCP is a strong choice for Kubernetes because Google created Kubernetes and provides Google Kubernetes Engine (GKE) for managing containerized applications.  |
+| **Global Web Application**  | **AWS**                         | AWS provides global infrastructure, high availability, load balancing, and automatic scaling that are useful for applications serving users around the world. |
+
+## Summary
+
+Based on the matrix, **AWS** is a strong general-purpose choice for startups, enterprises, and global web applications. **Microsoft Azure** is most suitable for organizations already using Microsoft technologies, while **Google Cloud Platform** is especially suitable for Artificial Intelligence, Machine Learning, and Kubernetes workloads.
