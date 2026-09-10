@@ -47,7 +47,8 @@ Azure Functions is a serverless computing service used to run event-driven code 
 - Containerized application deployment using Azure Kubernetes Service.
 - Data analytics, AI, backup, and disaster recovery.
 - Hybrid cloud and Microsoft enterprise integration.
-
+  
+![Azure Management Console](screenshots/azure-homepage.png)
 ## References
 
 Microsoft. (n.d.). *Azure Blob Storage*. Retrieved September 10, 2026, from https://azure.microsoft.com/en-us/products/storage/blobs/
