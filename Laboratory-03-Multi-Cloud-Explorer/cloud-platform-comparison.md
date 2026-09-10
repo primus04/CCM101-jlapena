@@ -30,6 +30,40 @@ Google Cloud is particularly strong in Artificial Intelligence, data analytics, 
 
 I would personally choose **Microsoft Azure** because it provides many useful cloud services and has strong integration with Microsoft technologies. It is also suitable for businesses and organizations that already use Microsoft products and services.
 
+# ☁️ Match the Cloud Services
+
+The following table shows equivalent or similar cloud services offered by AWS, Microsoft Azure, and Google Cloud Platform (GCP).
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Google Compute Engine          |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Google Cloud Storage           |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Google Cloud IAM               |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Service Descriptions
+
+### 1. Virtual Machine
+
+Virtual machine services allow organizations to run virtual servers in the cloud. AWS uses **Amazon EC2**, Azure uses **Azure Virtual Machines**, and GCP uses **Google Compute Engine**.
+
+### 2. Object Storage
+
+Object storage is used to store files, images, videos, backups, and other unstructured data. The equivalent services are **Amazon S3**, **Azure Blob Storage**, and **Google Cloud Storage**.
+
+### 3. Identity Management
+
+Identity management services control users, accounts, permissions, and access to cloud resources. AWS provides **AWS IAM**, Azure provides **Microsoft Entra ID**, and GCP provides **Google Cloud IAM**.
+
+### 4. SQL Database
+
+SQL database services provide managed relational databases for applications and business systems. AWS provides **Amazon RDS**, Azure provides **Azure SQL Database**, and GCP provides **Cloud SQL**.
+
+### 5. Kubernetes
+
+Kubernetes services allow organizations to deploy and manage containerized applications. AWS provides **Amazon EKS**, Azure provides **Azure Kubernetes Service (AKS)**, and GCP provides **Google Kubernetes Engine (GKE)**.
+
 ## References
 
 Amazon Web Services. (n.d.). *Amazon EC2*. https://aws.amazon.com/ec2/
