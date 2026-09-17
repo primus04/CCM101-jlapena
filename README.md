@@ -46,12 +46,12 @@ I enjoy learning new things and building my skills through practical activities.
 
 ## Laboratory Activities
 
-| Activity | Status |
-|----------|--------|
-| Lab 1    | ✅     |
-| Lab 2    | ✅     |
-| Lab 3    | ✅     |
-| Lab 4    | ✅     |
+| Activity | Laboratory | Status |
+|---|---|---|
+| Lab 1 | Welcome to the Cloud | ✅ |
+| Lab 2 | Build the Cloud Infrastructure Blueprint | ✅ |
+| Lab 3 | Multi-Cloud Explorer | ✅ |
+| Lab 4 | The Cloud-Native Engineer | ✅ |
 
 ## Contact
 
