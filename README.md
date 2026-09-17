@@ -51,6 +51,7 @@ I enjoy learning new things and building my skills through practical activities.
 | Lab 1    | ✅     |
 | Lab 2    | ✅     |
 | Lab 3    | ✅     |
+| Lab 4    | ✅     |
 
 ## Contact
 
