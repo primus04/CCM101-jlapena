@@ -46,9 +46,9 @@ The following commands were executed during **Checkpoints 3, 4, and 5**.
 | 4 | `docker run -d -p 8080:80 nginx` | Creates and starts an Nginx container in detached mode and maps host port `8080` to container port `80`. |
 | 5 | `curl http://localhost:8080` | Sends an HTTP request to the Nginx web server through port `8080`. |
 | 6 | `docker ps` | Displays the currently running Docker containers. |
-| 7 | `docker stop sharp_cohen` | Stops the running Nginx container named `sharp_cohen`. |
+| 7 | `docker stop elegant_pare` | Stops the running Nginx container named `elegant_pare`. |
 | 8 | `docker ps -a` | Displays both running and stopped containers to check the container status. |
-| 9 | `docker rm sharp_cohen` | Removes the stopped Nginx container named `sharp_cohen`. |
+| 9 | `docker rm elegant_pare` | Removes the stopped Nginx container named `elegant_pare`. |
 | 10 | `docker ps -a` | Confirms that the removed container no longer appears in the container list. |
 
 ---
