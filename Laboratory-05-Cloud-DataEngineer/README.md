@@ -16,7 +16,6 @@ Remember: A cloud engineer doesn't just store data; they ensure it is scalable, 
 
 ## Objectives
 
-Mission Objectives
 At the end of this laboratory activity, you should be able to:
  Differentiate between Block, File, and Object Storage.
  Deploy an S3-compatible Object Storage server (MinIO) using Docker.
