@@ -1,6 +1,6 @@
-# Laboratory 05 - Cloud Data Engineer
+# ☁️ Laboratory 05 - Cloud Data Engineer
 
-## Mission Overview
+## 🎯 Mission Overview
 
 Congratulations! Your seamless deployment of containerized web servers has caught the attention of
 the senior architects. You have now been temporarily reassigned to the Cloud Data Engineering Team at
@@ -14,7 +14,7 @@ Using your KillerCoda Playground, you will combine your new Docker skills with y
 deploy a live object storage server, create a storage "bucket," and upload data over the web.
 Remember: A cloud engineer doesn't just store data; they ensure it is scalable, accessible, and secure.
 
-## Objectives
+## 📌 Objectives
 
 At the end of this laboratory activity, you should be able to:
  Differentiate between Block, File, and Object Storage.
@@ -24,7 +24,7 @@ At the end of this laboratory activity, you should be able to:
  Document cloud storage operations using Markdown.
  Continue expanding a professional GitHub Cloud Computing Portfolio. 
 
-## Tools Used
+## 🛠️ Tools Used
 
 - KillerCoda Ubuntu Playground
 - Docker
@@ -32,7 +32,7 @@ At the end of this laboratory activity, you should be able to:
 - Git and GitHub
 - Visual Studio Code
 
-## Skills Learned
+## 🧠 Skills Learned
 
 - Understanding different types of cloud storage.
 - Deploying containers using Docker.
