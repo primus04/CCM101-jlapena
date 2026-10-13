@@ -52,6 +52,7 @@ I enjoy learning new things and building my skills through practical activities.
 | Lab 2 | Build the Cloud Infrastructure Blueprint | ✅ |
 | Lab 3 | Multi-Cloud Explorer | ✅ |
 | Lab 4 | The Cloud-Native Engineer | ✅ |
+| Lab 5 | Cloud Data Engineer | ✅ |
 
 ## Contact
 
