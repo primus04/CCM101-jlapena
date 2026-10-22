@@ -4,7 +4,7 @@
 
 **🚨 404 Error Log:**
 
-Paste the complete log line for the `GET /hidden-admin-page` request here.
+172.17.0.1 - - [22/Oct/2026:12:39:44 +0000] "GET /hidden-admin-page HTTP/1.1" 404 153 "-" "curl/8.5.0" "-"
 
 ## 🔍 2. Importance of Application Logs
 
