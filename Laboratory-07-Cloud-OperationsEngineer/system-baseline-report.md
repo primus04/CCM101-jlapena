@@ -21,5 +21,7 @@ Checking disk space before a massive traffic surge is critical because insuffici
 
 ## 📸 5. Screenshots
 
-- 🧠 `screenshots/memory-check.png`
-- 💾 `screenshots/disk-check.png`
+### 🧠 Memory Check
+![Memory Check](screenshots/memory-check.png)
+### 💾 Disk Check
+![Disk Check](screenshots/disk-check.png)
