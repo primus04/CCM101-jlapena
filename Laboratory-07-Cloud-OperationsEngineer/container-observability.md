@@ -22,6 +22,6 @@ Application logs are important because they help cloud engineers identify errors
 ## 📸 4. Screenshots
 
 ### 🐳 Docker Logs
-- ![Docker Logs](screenshots/docker-logs.png)
+![Docker Logs](screenshots/docker-logs.png)
 ### 📊 Container Metrics
-- ![Container Metrics](screenshots/container-metrics.png)
+![Container Metrics](screenshots/container-metrics.png)
