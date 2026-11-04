@@ -55,6 +55,7 @@ I enjoy learning new things and building my skills through practical activities.
 | Lab 5 | Cloud Data Engineer | ✅ |
 | Lab 6 | Cloud-DeploymentEngineer | ✅ |
 | Lab 7 | Cloud-OperationsEngineer | ✅ |
+| Lab 8 | Cloud Security Engineer | ✅ |
 
 ## Contact
 
